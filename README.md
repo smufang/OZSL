@@ -12,6 +12,11 @@ Pytorch implementation for the paper [**Learning to Identify Seen, Unseen and Un
 
 - Run the exec.sh file in src folder to get the results. The results are stored in results_csv folder.
 
+## Notes
+- The experiemnts can be repeated for other datasets.
+- We use the 1024 dimension attribute for CUB and FLO dataset.
+- The synthetic data is generated via [GSMFlow](https://github.com/uqzhichen/GSMFlow)
+
 ## Acknowledgement
 The work is built upon [GSMFlow](https://github.com/uqzhichen/GSMFlow) and [A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning](https://github.com/Chenxingyu1990/A-Boundary-Based-Out-of-Distribution-Classifier-for-Generalized-Zero-Shot-Learning) 
 
