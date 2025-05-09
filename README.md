@@ -13,7 +13,7 @@ Pytorch implementation for the paper [**Learning to Identify Seen, Unseen and Un
 - Run the exec.sh file in src folder to get the results. The results are stored in results_csv folder.
 
 ## Notes
-- The experiemnts can be repeated for other datasets.
+- Simillarly, the experiments can be repeated for other datasets.
 - We use the 1024 dimension attribute for CUB and FLO dataset.
 - The synthetic data is generated via [GSMFlow](https://github.com/uqzhichen/GSMFlow)
 - The implementation details are in [supplementary material](https://openaccess.thecvf.com/content/WACV2025/supplemental/Parameswaran_Learning_to_Identify_WACV_2025_supplemental.pdf)
