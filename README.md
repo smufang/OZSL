@@ -12,6 +12,9 @@ The code for the paper [**Learning to Identify Seen, Unseen and Unknown in the O
 
 - Run the exec.sh file in src folder to get the results. The results are stored in results_csv folder.
 
+## Acknowledgement
+The work is built upon [GSMFlow](https://github.com/uqzhichen/GSMFlow) and [A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning](https://github.com/Chenxingyu1990/A-Boundary-Based-Out-of-Distribution-Classifier-for-Generalized-Zero-Shot-Learning) 
+
 ## Citation
 
 If you find our work is useful in your research, please consider citing:
