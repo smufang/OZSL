@@ -1,5 +1,5 @@
 ## Learning to Identify Seen, Unseen and Unknown in the Open World: A Practical Setting for Zero-Shot Learning
-Pytorch implementation for the paper [**Learning to Identify Seen, Unseen and Unknown in the Open World: A Practical Setting for Zero-Shot Learning** - **WACV 2025**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943657&casa_token=dbky-_-e-qsAAAAA:TJWFnLuKPtOr9ypLs2wO6z9k2GDHDSnU8MnpYllKJl4p9bHn2xy6aMNdRmZ-mZ7RO_FUkn-uHg&tag=1)
+Pytorch implementation for the paper [**Learning to Identify Seen, Unseen and Unknown in the Open World: A Practical Setting for Zero-Shot Learning** - **WACV 2025**](https://openaccess.thecvf.com/content/WACV2025/papers/Parameswaran_Learning_to_Identify_Seen_Unseen_and_Unknown_in_the_Open_WACV_2025_paper.pdf)
 
 ## Execution
 - The Data is provided in the [here](https://www.dropbox.com/scl/fo/sfpgot2r600zu08e4tm92/AO4VVLORH7W9i1AmwJHlqNw?rlkey=35p6e4iswlqzdn1511mau4o1s&st=bb93et8l&dl=0)
@@ -16,6 +16,7 @@ Pytorch implementation for the paper [**Learning to Identify Seen, Unseen and Un
 - The experiemnts can be repeated for other datasets.
 - We use the 1024 dimension attribute for CUB and FLO dataset.
 - The synthetic data is generated via [GSMFlow](https://github.com/uqzhichen/GSMFlow)
+- The implementation details are in [supplementary material](https://openaccess.thecvf.com/content/WACV2025/supplemental/Parameswaran_Learning_to_Identify_WACV_2025_supplemental.pdf)
 
 ## Acknowledgement
 The work is built upon [GSMFlow](https://github.com/uqzhichen/GSMFlow) and [A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning](https://github.com/Chenxingyu1990/A-Boundary-Based-Out-of-Distribution-Classifier-for-Generalized-Zero-Shot-Learning) 
