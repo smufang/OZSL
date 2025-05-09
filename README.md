@@ -1,4 +1,4 @@
-# OZSL
+# Learning to Identify Seen, Unseen and Unknown in the Open World: A Practical Setting for Zero-Shot Learning
 The code for the paper [**Learning to Identify Seen, Unseen and Unknown in the Open World: A Practical Setting for Zero-Shot Learning** - **WACV 2025**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10943657&casa_token=dbky-_-e-qsAAAAA:TJWFnLuKPtOr9ypLs2wO6z9k2GDHDSnU8MnpYllKJl4p9bHn2xy6aMNdRmZ-mZ7RO_FUkn-uHg&tag=1)
 
 # Execution
