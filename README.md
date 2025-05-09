@@ -11,3 +11,18 @@ The code for the paper **Learning to Identify Seen, Unseen and Unknown in the Op
 - Provide the path to datasets in the config/*.yaml files
 
 - Run the exec.sh file in src folder to get the results. The results are stored in results_csv folder.
+
+## Citation
+
+If you find our work is useful in your research, please consider citing:
+
+```bibtex
+@inproceedings{parameswaran2025learning,
+  title={Learning to Identify Seen, Unseen and Unknown in the Open World: A Practical Setting for Zero-Shot Learning},
+  author={Parameswaran, Sethupathy and Fang, Yuan and Gautam, Chandan and Ramasamy, Savitha and Li, Xiaoli},
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={6868--6878},
+  year={2025},
+  organization={IEEE}
+}
+
